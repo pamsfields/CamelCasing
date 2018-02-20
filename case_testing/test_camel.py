@@ -1,6 +1,6 @@
 import unittest
 from unittest.mock import patch
-import camel
+import Lab1Lab1camelcasingPamFields1-9-2018
 
 class TestCamelCase(unittest.TestCase):
 
